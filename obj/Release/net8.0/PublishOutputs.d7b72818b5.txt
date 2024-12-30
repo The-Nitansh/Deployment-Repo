@@ -1,0 +1,7 @@
+D:\Repository\Dotnet Repo\Learning Workspace\Projects\DummyRestApi\obj\Release\net8.0\PubTmp\Out\DummyRestApi.exe
+D:\Repository\Dotnet Repo\Learning Workspace\Projects\DummyRestApi\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Repository\Dotnet Repo\Learning Workspace\Projects\DummyRestApi\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Repository\Dotnet Repo\Learning Workspace\Projects\DummyRestApi\obj\Release\net8.0\PubTmp\Out\DummyRestApi.dll
+D:\Repository\Dotnet Repo\Learning Workspace\Projects\DummyRestApi\obj\Release\net8.0\PubTmp\Out\DummyRestApi.deps.json
+D:\Repository\Dotnet Repo\Learning Workspace\Projects\DummyRestApi\obj\Release\net8.0\PubTmp\Out\DummyRestApi.runtimeconfig.json
+D:\Repository\Dotnet Repo\Learning Workspace\Projects\DummyRestApi\obj\Release\net8.0\PubTmp\Out\DummyRestApi.pdb

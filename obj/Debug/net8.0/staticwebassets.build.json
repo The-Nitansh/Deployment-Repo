@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OXqNifg39QWM/IVMsfSH7gzlut2r6wKOxJ4XIdv+dr0=",
+  "Source": "DummyRestApi",
+  "BasePath": "_content/DummyRestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
